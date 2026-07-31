@@ -1,0 +1,5 @@
+pyTelegramBotAPI
+Flask
+pdfkit
+jinja2
+gunicorn
